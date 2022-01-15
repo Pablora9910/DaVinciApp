@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="action_settings_Alta">Alta</string>
+    <string name="action_settings_Baja">Baja</string>
+    <string name="action_settings_Modificacion">Modificación</string>
+    <string name="selecionado">Has selecionado</string>
+
+    <string name="monalisa">El Retrato de Lisa Gherardini, esposa de Francesco del Giocondo, más conocido como La Gioconda o Monna Lisa, es una obra pictórica del polímata renacentista italiano Leonardo da Vinci</string>
+    <string name="escultura">«La Virgen con el Niño Sonriente»</string>
+    <string name="estudios">Leonardo estudió el sistema reproductivo y la pelvis femenina, realizando uno de los primeros dibujos del feto humano dentro del útero. Aunque esta ilustración no fue del todo correcta, ya que al parecer se basó en los animales para intuir la posición del feto</string>
+    <string name="paracaidas">Paracaídas</string>
+    <string name="paracaidas1">Si bien el paracaídas actual lo creó Sebastien Lenormand en 1783, Leonardo da Vinci concibió la idea cientos de años antes.</string>
+    <string name="BienVenido">Bienvenido a la aplicación sobre Leonardo da Vinci </string>
+
+    
+    <string name="menu_home">Casa</string>
+    <string name="menu_pintor">Pinturas</string>
+    <string name="menu_escultor">Esculturas</string>
+    <string name="menu_cientifico">Estudios Científicos</string>
+    <string name="menu_inventor">Invenciones</string>
+    <string name="textview">TextView</string>
+</resources>
